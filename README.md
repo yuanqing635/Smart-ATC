@@ -1,5 +1,5 @@
 # Smart-ATC
-## Project Documentations
+## Project Description
 ### Backgrounds
 This Smart-ATC project is aimed at building a smarter air traffic control system using deep learning.  
 
