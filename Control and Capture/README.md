@@ -1,3 +1,2 @@
-#Capture
-目前用于截帧的按钮主要是自动循环截图，后期可能根据要求完善一些细化的功能
-MSFS_capture仅包含C#原理代码，整个项目由于大小限制无法上传。（完整代码已上传至Github）
+# Capture
+This part only includes the main code, other scripts will be uploaded after the submission of our work.
